@@ -1,0 +1,4 @@
+nav > p {
+    display: flex;
+    justify-content: flex-end;
+}
